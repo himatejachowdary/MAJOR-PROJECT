@@ -253,9 +253,7 @@ This project is developed for academic purposes.
 ## 📞 Contact
 
 For queries or collaboration:
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
-- GitHub: [Your Profile]
+- Email: himatejacherukumalli0@gmail.com
 
 ---
 
